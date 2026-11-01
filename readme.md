@@ -1,3 +1,23 @@
-# Título
+Código Criativo III
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+O código tem as seguintes intenções de ser interação e animação de forma quadrada, dobrada como uma folha de papel, e gira e muda a forma triangular. O uso do MouseX e MouseY controla a interação. As cores mudam entre azul, verde, vermelho, e o fundo preto (quando se move o rato, ele fica escondido).
+
+O uso de if/else está presente na movimentação e na mudança das cores com o MouseX e MouseY. Entre as cores verde, azul, vermelho e preto combina com o fundo.
+
+mouseX, mouseY — interação com o rato
+
+Aviso: há mais espaço na tela: as dimensões devem ser 800x800, como em outro trabalho feito de Mondrian.
+
+Com figura central, mudança de tamanho, que cabe no espaço da tela do computador.
+
+Toda a parte foi usada no site p5.js como a figura quadrada, com algumas alterações que deram errado para ajustar o tamanho da figura. O tamanho foi usado no Illustrator no arquivo 800x800.
+
+Na parte de if/else foi no site do Design de Inovação na parte de mouseX e mouseY.
+
+IA ou AI
+
+Não foi usado em aprendizagem ou de copiar e colar, que foi escrito.
+
+Feito o trabalho pessoalmente: 100%
+
+Da parte das pesquisas são do site p5.js
